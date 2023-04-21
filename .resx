@@ -1,0 +1,102 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Terms and Conditions:
+
+Welcome to our Real Estate Management Software! These terms and conditions ("Terms") govern your access and use of our software and services. By using our software and services, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use our software and services.
+
+License: We grant you a limited, non-exclusive, non-transferable license to use our software and services for your own internal business purposes only.
+
+Payment: You agree to pay all fees associated with the use of our software and services.
+
+Intellectual Property: We retain all right, title, and interest in and to our software and services, including all intellectual property rights.
+
+Use of Information: You agree that we may use any information that you provide to us in connection with your use of our software and services for our own business purposes, including without limitation, to improve our software and services.
+
+No Warranty: We make no warranty of any kind, whether express or implied, including without limitation, any warranty of merchantability or fitness for a particular purpose, with respect to our software and services.
+
+Limitation of Liability: In no event shall we be liable for any indirect, special, incidental, punitive, or consequential damages arising out of or in connection with your use of our software and services, even if we have been advised of the possibility of such damages.
+
+Termination: We may terminate your access to our software and services at any time, with or without cause.
+
+Governing Law: These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which we are located.
+
+Privacy Policy:
+
+Information We Collect: We may collect personal information such as your name, email address, phone number, and mailing address when you use our software and services.
+
+Use of Information: We use your personal information to provide you with our software and services and to communicate with you about your use of our software and services.
+
+Sharing of Information: We do not share your personal information with third parties except as necessary to provide you with our software and services or as required by law.
+
+Security: We take reasonable measures to protect your personal information from unauthorized access or disclosure.
+
+Retention of Information: We retain your personal information for as long as necessary to provide you with our software and services or as required by law.
+
+Your Rights: You have the right to access, correct, or delete your personal information that we have collected. You also have the right to object to or restrict our processing of your personal information.
+
+Changes to Policy: We may change this Privacy Policy from time to time. If we make any material changes, we will notify you by email or by posting a notice on our website.
+
+Contact Us: If you have any questions or concerns about this Privacy Policy, please contact us at realestate@mail.com .
+
+
+</value>
+  </data>
+</root>
